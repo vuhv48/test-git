@@ -1,3 +1,5 @@
 test test 
 
 tôi sửa file2
+
+emote update 2
