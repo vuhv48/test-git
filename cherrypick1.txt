@@ -4,3 +4,4 @@ dong3 feature conflict
 feature conflic
 test main2 conflict
 test conflic2
+test confluc line7
