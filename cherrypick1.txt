@@ -2,6 +2,6 @@ dong 1 cua toi check cherry pick lien quan commit 1
 dong 2 cherrypic đi nào
 dong3 feature conflict
 feature conflic
-test main2 conflict
-test conflic2
-test confluc line71
+test conflict2
+me
+no
