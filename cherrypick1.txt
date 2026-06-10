@@ -5,3 +5,4 @@ feature conflic
 test conflict2
 me
 no
+cmm
