@@ -1,1 +1,2 @@
 dong 1 cua toi check cherry pick lien quan commit 1
+dong 2 cherrypic đi nào
