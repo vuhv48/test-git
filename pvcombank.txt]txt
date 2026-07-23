@@ -5,6 +5,8 @@ Account acc = accountRepo.findById(id);   // block ngay tại đây, cùng 1 thr
 webClient.get().uri(url).retrieve().bodyToMono(AccountDto.class)
     .subscribe(dto -> System.out.println(dto));   // gọi xong chạy tiếp ngay, kết quả xử lý sau qua callback
 
+    .subscribe(dto -> System.out.println(dto));
+
 // ASYNC bằng cách dùng multithreading — cách phổ biến hơn trong code Java truyền thống
 @Async
 public void sendEmailAsync(String to) {
