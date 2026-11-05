@@ -1,1 +1,2 @@
 hoang_conflict1
+conflict2
