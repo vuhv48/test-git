@@ -3,3 +3,12 @@ test test
 tôi sửa file2
 
 emote update 2
+toi sua vong 1 lan 1
+toi sua vong 1 lan 2
+toi sua vong 1 lan 3
+toi sua vong 2 lan 1
+toi sua vong 2 lan 2
+toi sua vong 2 lan 3
+toi sua vong 3 lan 1
+toi sua vong 3 lan 2
+toi sua vong 3 lan 3
