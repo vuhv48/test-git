@@ -3,3 +3,8 @@ test test
 tôi sửa file2
 
 emote update 2
+gom lan 1
+gom lan 2
+gom lan 3
+gom lan 4
+gom lan 5
