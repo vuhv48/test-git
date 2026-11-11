@@ -3,3 +3,4 @@ test test
 tôi sửa file2
 
 emote update 2
+RPT-456 sua lan 1
