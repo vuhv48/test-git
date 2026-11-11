@@ -4,3 +4,5 @@ conflict2.1
 conflict2.2conflict2.2.2
 cònlic2.2.1
 testtesstlan2
+conflict test lai nhanh 2
+conflict tsst lai
